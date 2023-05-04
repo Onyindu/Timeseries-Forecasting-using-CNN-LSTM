@@ -1,1 +1,2 @@
 # Timeseries-Forecasting-using-CNN-LSTM
+# This is a CNN-LSTM neural network model that learns from past data(temperature and precipitation) from the google earth dataset through an api and forecast the temperature and precipitation for a given region or point.
